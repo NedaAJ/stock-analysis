@@ -95,7 +95,4 @@ However, once we did the refactoring, the macro took only **0.2 seconds** to run
 ![2018_Run_Time](Resources/2018_Run_Time.PNG)
 
 2. How do these pros and cons apply to refactoring the original VBA script?
-Refactoring has number of different pros. Not only it makes a cleaner and more organized code but also can be benefitial for other collaborators who might read our codes because of how straightforward and easy it is to follow and read. It will be also easier to debug and can increase our softwares effeciency.
-
-
-
+Refactoring has number of different pros. Not only it makes a cleaner and more organized code but also can be benefitial for other collaborators who might read our codes because of how straightforward and easy it is to follow and read. It will be also easier to debug and can increase our softwares effeciency. On the other hand, the refactiring can be really time consuming. For this challenge, we did not have as many lines of codes therefore it did not take much of a time but in real world and projects, we might have hundreds of code lines. There can be also a higher chance of mistakes because of complexity of the code.
