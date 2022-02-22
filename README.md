@@ -4,7 +4,7 @@ You can find the Analysis file here: [VBA Challenge - Stock Analysis](https://gi
 
 ## Overview of Project
 ### Purpose
-The pusrpose of this project is to refactor the existing Microsoft VBA code in a way that we can collect **any** stocks information in either of _2018_ or _2017_ years to understand if the stocks are worth investing. This process was already done in a format which worked perfectly for dozen of stocks; however, the goal of this challenge is to increase the effeciency of our existing code.
+The purpose of this project is to refactor the existing Microsoft VBA code in a way that we can collect **any** stocks information in either of _2018_ or _2017_ years to understand if the stocks are worth investing. This process was already done in a format which worked perfectly for dozen of stocks; however, the goal of this challenge is to increase the effeciency of our existing code.
 
 ## Results
 ### Analysis
